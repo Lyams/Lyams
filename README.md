@@ -1,6 +1,6 @@
 ### Hi everybody 👋
 
-I'm a Ruby developer.
+I'm a Ruby on rails software engineer.
 
 - 🌱 I’m currently learning ["Building your own authentication library with Trailblazer"](https://leanpub.com/buildalib) because I was offered to use Trailblazer in a test task for a Ruby Developer.
 
