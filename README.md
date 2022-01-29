@@ -2,7 +2,7 @@
 
 I'm a Ruby developer.
 
-- 🌱 I’m currently learning ["Building your own authentication library with Trailblazer"](https://leanpub.com/buildalib) because I was offered to use it in a test task for a Junior Ruby Developer.
+- 🌱 I’m currently learning ["Building your own authentication library with Trailblazer"](https://leanpub.com/buildalib) because I was offered to use it in a test task for a Ruby Developer.
 
 - 🔭 And this is me on codewars: [Lyams](https://www.codewars.com/users/Lyams) <img src="public/codewars.png" alt="Codewars Profile of Lyams" width="35%" align="right"/>
 
