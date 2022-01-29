@@ -2,7 +2,7 @@
 
 I'm a Ruby developer.
 
-- 🌱 I’m currently learning ["Building your own authentication library with Trailblazer"](https://leanpub.com/buildalib) because I was offered to use it in a test task.
+- 🌱 I’m currently learning ["Building your own authentication library with Trailblazer"](https://leanpub.com/buildalib) because I was offered to use it in a test task for a Junior Ruby Developer.
 
 <!--
 **Lyams/Lyams** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
