@@ -4,7 +4,7 @@ I'm a Ruby on rails software engineer.
 
 - 🌱 I’m currently learning ["Building your own authentication library with Trailblazer"](https://leanpub.com/buildalib) because I was offered to use Trailblazer in a test task for a Ruby Developer.
 
-- 🔭 And this is me on codewars: [Lyams](https://www.codewars.com/users/Lyams) <img src="public/codewars.png" alt="Codewars Profile of Lyams" width="35%" align="right"/>
+- 🔭 And this is me on codewars: [Lyams](https://www.codewars.com/users/Lyams) <img src="public/codewars.png" alt="Codewars Profile of Lyams" width="25%" align="right"/>
 
 <!--
 **Lyams/Lyams** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
