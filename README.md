@@ -3,6 +3,7 @@
 I'm a Ruby on rails software engineer.
 
 - 🔭 And this is me on codewars: [Lyams](https://www.codewars.com/users/Lyams) <img src="public/codewars.png" alt="Codewars Profile of Lyams" width="25%" align="right"/>
+- [My new blog](https://lyams.github.io/Over-a-cup-of-hot-drink-with-Ilia/posts/) (on Russian; in development)
 
 <!--
 **Lyams/Lyams** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
